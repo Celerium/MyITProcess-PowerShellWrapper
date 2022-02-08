@@ -103,7 +103,7 @@ Each `Get-MyITProcess*` function will respond with the raw data that MyITProcess
 ---
 ## Wiki & Help :blue_book:
 
-Each resource allows for filters and parameters to be used to specify the desired output from MyITProcess's reporting API. Check out the wiki article on [Using Filters and Parameters](https://github.com/MyITProcess/powershellwrapper/wiki/Using-Filters-and-Parameters).
+Each resource allows for filters and parameters to be used to specify the desired output from MyITProcess's reporting API. Check out the wiki article on [Using Filters and Parameters](https://github.com/Celerium/MyITProcess-PowerShellWrapper/wiki/Using-Filters-and-Parameters).
 
   - A full list of functions can be retrieved by running `Get-Command -Module MyITProcessAPI`.
   - Help info and a list of parameters can be found by running `Get-Help <command name>`, such as:
@@ -112,7 +112,7 @@ Each resource allows for filters and parameters to be used to specify the desire
 Get-Help Get-MyITProcessUsers
 Get-Help Get-MyITProcessUsers -Full
 ```
-For more information about using this module, as well as examples and advanced functionality, check out the [wiki](https://github.com/MyITProcess/powershellwrapper/wiki/)!
+For more information about using this module, as well as examples and advanced functionality, check out the [wiki](https://github.com/Celerium/MyITProcess-PowerShellWrapper/wiki)!
 
 ---
 ## ToDo List :dart:
