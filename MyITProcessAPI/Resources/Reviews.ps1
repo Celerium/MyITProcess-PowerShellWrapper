@@ -92,7 +92,7 @@ function Get-MyITProcessReviews {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 
@@ -149,7 +149,9 @@ function Get-MyITProcessReviews {
         Returns results 50 at a time and outputs data from page 2. Data is sorted by name and returned in ascending order.
 
     .EXAMPLE
-        Get-MyITProcessReviews -queryFilters -filter_field_name name -filter_field_predicate equal -filter_field_value 'Managed Services Audit' -sortingRules -sort_field_name id -sort_direction desc -pagingRule -page_number 2 -page_size 50
+        Get-MyITProcessReviews  -queryFilters -filter_field_name name -filter_field_predicate equal -filter_field_value 'Managed Services Audit'
+                                -sortingRules -sort_field_name id -sort_direction desc
+                                -pagingRule -page_number 2 -page_size 50
 
         Gets the first 100 reviews whose name equals 'Managed Services Audit' then sorts the results by id in descending order and returns results 50 at a time and outputs data from page 2.
 
@@ -355,7 +357,7 @@ function Get-MyITProcessReviewsCategoriesOverdue {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 

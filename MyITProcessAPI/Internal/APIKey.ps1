@@ -176,7 +176,7 @@ function Test-MyITProcessAPIKey {
     }
     catch {
 
-        [pscustomobject]@{
+        [PSCustomObject]@{
             Method = $_.Exception.Response.Method
             StatusCode = $_.Exception.Response.StatusCode.value__
             StatusDescription = $_.Exception.Response.StatusDescription
@@ -192,7 +192,7 @@ function Test-MyITProcessAPIKey {
         $data = @{}
         $data = $rest_output
 
-        [pscustomobject]@{
+        [PSCustomObject]@{
             StatusCode = $data.StatusCode
             StatusDescription = $data.StatusDescription
             URI = $($MyITProcess_Base_URI + $resource_uri)

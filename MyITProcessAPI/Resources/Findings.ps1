@@ -93,7 +93,7 @@ function Get-MyITProcessFindings {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 
@@ -144,7 +144,9 @@ function Get-MyITProcessFindings {
         Returns results 50 at a time and outputs data from page 2. Data is sorted by id and returned in ascending order.
 
     .EXAMPLE
-        Get-MyITProcessFindings -queryFilters -filter_field_name review.id -filter_field_predicate equal -filter_field_value '12345' -sortingRules -sort_field_name id -sort_direction desc -pagingRule -page_number 2 -page_size 50
+        Get-MyITProcessFindings -queryFilters -filter_field_name review.id -filter_field_predicate equal -filter_field_value '12345'
+                                -sortingRules -sort_field_name id -sort_direction desc
+                                -pagingRule -page_number 2 -page_size 50
 
         Gets the vCIO findings whose review.id value equals '12345' then sorts the results by id in descending order and returns results 50 at a time and outputs data from page 2.
 

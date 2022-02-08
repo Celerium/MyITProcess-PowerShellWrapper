@@ -93,7 +93,7 @@ function Get-MyITProcessRecommendations {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 
@@ -143,12 +143,12 @@ function Get-MyITProcessRecommendations {
     .EXAMPLE
         Get-MyITProcessRecommendations
 
-        Gets the first 100 recommendations from the MyITProcess reporting API.
+        Gets the first 100 recommendations from the MyITProcess reporting API. Data is sorted by name and returned in ascending order.
 
     .EXAMPLE
         Get-MyITProcessRecommendations -queryFilters -filter_field_name name -filter_field_predicate equal -filter_field_value 'Cloud-Migration'
 
-        Gets the recommendations whose name equals 'Cloud-Migration'.
+        Gets the recommendations whose name equals 'Cloud-Migration'. Data is sorted by name and returned in ascending order.
 
     .EXAMPLE
         Get-MyITProcessRecommendations -sortingRules -sort_field_name id -sort_direction desc
@@ -161,7 +161,9 @@ function Get-MyITProcessRecommendations {
         Returns results 50 at a time and outputs data from page 2. Data is sorted by name and returned in ascending order.
 
     .EXAMPLE
-        Get-MyITProcessRecommendations -queryFilters -filter_field_name name -filter_field_predicate equal -filter_field_value 'Cloud-Migration' -sortingRules -sort_field_name id -sort_direction desc -pagingRule -page_number 2 -page_size 50
+        Get-MyITProcessRecommendations  -queryFilters -filter_field_name name -filter_field_predicate equal -filter_field_value 'Cloud-Migration'
+                                        -sortingRules -sort_field_name id -sort_direction desc -pagingRule
+                                        -page_number 2 -page_size 50
 
         Gets the recommendations whose name equals 'Cloud-Migration' then sorts the results by id in descending order and returns results 50 at a time and outputs data from page 2.
 
@@ -279,18 +281,19 @@ function Get-MyITProcessRecommendations {
 function Get-MyITProcessRecommendationsConfigurations {
 <#
     .SYNOPSIS
-        Gets configurations linked to a recommendation from the MyITProcess reporting API.
+        Gets configurations linked to a recommendation Id from the MyITProcess reporting API.
 
     .DESCRIPTION
         The Get-MyITProcessRecommendationsConfigurations gets configurations linked
-        to a recommendation from the MyITProcess reporting API.
+        to a recommendation Id from the MyITProcess reporting API.
 
         Configurations are located under the Strategy section in the MyITProcess.
             Strategy > Client > Recommendation > Configurations
 
     .PARAMETER recommendationId
-        Switch statement that allows the body of the JSON request to include an array of filter objects.
-        You need to include this switch if you use any of the "filter_*" parameters.
+        Defines the recommendation id that in turn will show you any linked configurations
+
+        This is a required parameter.
 
         .PARAMETER queryFilters
         Switch statement that allows the body of the JSON request to include an array of filter objects.
@@ -374,7 +377,7 @@ function Get-MyITProcessRecommendationsConfigurations {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 
@@ -405,25 +408,25 @@ function Get-MyITProcessRecommendationsConfigurations {
         Gets the first 100 configurations linked to the recommendation with an id of '123456789'
 
     .EXAMPLE
-        Get-MyITProcessRecommendations -recommendationId 123456789 -queryFilters -filter_field_name name -filter_field_predicate equal -filter_field_value 'Server-001'
+        Get-MyITProcessRecommendationsConfigurations -recommendationId 123456789 -queryFilters -filter_field_name name -filter_field_predicate equal -filter_field_value 'Server-001'
 
         Gets a configuration whose name equals 'Server-001' that is linked to the recommendation with an id of '123456789'
 
     .EXAMPLE
-        Get-MyITProcessRecommendations -recommendationId 123456789 -sortingRules -sort_field_name id -sort_direction desc
+        Get-MyITProcessRecommendationsConfigurations -recommendationId 123456789 -sortingRules -sort_field_name id -sort_direction desc
 
         Gets the first 100 configurations linked to the recommendation with an id of '123456789' Data is sorted by id and returned in descending order.
 
     .EXAMPLE
-        Get-MyITProcessRecommendations -recommendationId 123456789 -pagingRule -page_number 2 -page_size 50
+        Get-MyITProcessRecommendationsConfigurations -recommendationId 123456789 -pagingRule -page_number 2 -page_size 50
 
         Returns results 50 at a time and outputs data from page 2. Data is sorted by name and returned in ascending order.
 
     .EXAMPLE
-        Get-MyITProcessRecommendations  -recommendationId 123456789 `
-                                        -queryFilters -filter_field_name type -filter_field_predicate equal -filter_field_value 'Server' `
-                                        -sortingRules -sort_field_name id -sort_direction desc `
-                                        -pagingRule -page_number 2 -page_size 50
+        Get-MyITProcessRecommendationsConfigurations    -recommendationId 123456789 `
+                                                        -queryFilters -filter_field_name type -filter_field_predicate equal -filter_field_value 'Server' `
+                                                        -sortingRules -sort_field_name id -sort_direction desc `
+                                                        -pagingRule -page_number 2 -page_size 50
 
         Gets a configuration whose type equals 'Server' that is linked to the recommendation with an id of '123456789'
         then sorts the results by id in descending order and returns results 50 at a time and outputs data from page 2.

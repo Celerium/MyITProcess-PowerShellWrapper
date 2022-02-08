@@ -30,6 +30,12 @@ Get-MyITProcessUsers
 
 ## Install & Import
 
+:exclamation: As of 2022-02-07 the MyITProcess API is in **BETA**. So this module has been published as a prerelease. For BETA testing you can install the module with the following command:
+- When the API is out of BETA, I will adjust to any changes and note any new information here
+```posh
+Install-Module -Name MyITProcessAPI -AllowPrerelease
+```
+
 This module can be installed directly from the [PowerShell Gallery](https://www.powershellgallery.com/packages/MyITProcessAPI) with the following command:
 - :information_source: This module supports PowerShell 5.0+ and should work in PowerShell Core.
 ```posh

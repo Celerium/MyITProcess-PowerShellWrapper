@@ -91,7 +91,7 @@ function Get-MyITProcessInitiatives {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 
@@ -151,7 +151,9 @@ function Get-MyITProcessInitiatives {
         Returns results 50 at a time and outputs data from page 2. Data is sorted by name and returned in ascending order.
 
     .EXAMPLE
-        Get-MyITProcessInitiatives -queryFilters -filter_field_name client.name -filter_field_predicate equal -filter_field_value 'Test Client' -sortingRules -sort_field_name id -sort_direction desc -pagingRule -page_number 2 -page_size 50
+        Get-MyITProcessInitiatives  -queryFilters -filter_field_name client.name -filter_field_predicate equal -filter_field_value 'Test Client'
+                                    -sortingRules -sort_field_name id -sort_direction desc
+                                    -pagingRule -page_number 2 -page_size 50
 
         Gets the initiatives where client.name equals 'Test Client' then sorts the results by id in descending order and returns results 50 at a time and outputs data from page 2.
 

@@ -162,7 +162,7 @@ function Import-MyITProcessModuleSettings {
 function Remove-MyITProcessModuleSettings {
 <#
     .SYNOPSIS
-        Removes stored the MyITProcess configuration folder.
+        Removes the stored MyITProcess configuration folder.
 
     .DESCRIPTION
         The Remove-MyITProcessModuleSettings cmdlet removes the MyITProcess folder and its files.

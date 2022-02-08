@@ -93,7 +93,7 @@ function Get-MyITProcessMeetings {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 
@@ -135,12 +135,12 @@ function Get-MyITProcessMeetings {
     .EXAMPLE
         Get-MyITProcessMeetings
 
-        Gets the first 100 meetings from the MyITProcess reporting API. Data is sorted by startDate and returned in descending order.
+        Gets the first 100 meetings from the MyITProcess reporting API. Data is sorted by startDate and returned in ascending order.
 
     .EXAMPLE
         Get-MyITProcessMeetings -queryFilters -filter_field_name client.name -filter_field_predicate equal -filter_field_value 'Test Client'
 
-        Gets the meetings where client.name equals 'Test Client'. Data is sorted by startDate and returned in descending order.
+        Gets the meetings where client.name equals 'Test Client'. Data is sorted by startDate and returned in ascending order.
 
     .EXAMPLE
         Get-MyITProcessMeetings -sortingRules -sort_field_name id -sort_direction desc
@@ -153,7 +153,9 @@ function Get-MyITProcessMeetings {
         Returns results 50 at a time and outputs data from page 2. Data is sorted by startDate and returned in ascending order.
 
     .EXAMPLE
-        Get-MyITProcessMeetings -queryFilters -filter_field_name client.name -filter_field_predicate equal -filter_field_value 'Test Client' -sortingRules -sort_field_name id -sort_direction desc -pagingRule -page_number 2 -page_size 50
+        Get-MyITProcessMeetings -queryFilters -filter_field_name client.name -filter_field_predicate equal -filter_field_value 'Test Client'
+                                -sortingRules -sort_field_name id -sort_direction desc
+                                -pagingRule -page_number 2 -page_size 50
 
         Gets the meetings where client.name equals 'Test Client' then sorts the results by id in descending order and returns results 50 at a time and outputs data from page 2.
 

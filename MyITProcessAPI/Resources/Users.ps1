@@ -88,7 +88,7 @@ function Get-MyITProcessUsers {
             The default value is 1
 
         .PARAMETER page_size
-            Defines amount of objects to return with each page.
+            Defines the amount of objects to return with each page.
 
             The maximum page size allowed is 100
 
@@ -156,7 +156,7 @@ function Get-MyITProcessUsers {
 
             [Parameter(ParameterSetName = 'index')]
             [ValidateSet( 'id', 'firstName', 'lastName', 'roleName', 'lastLoginDate' )]
-            [string]$filter_field_name = 'name',
+            [string]$filter_field_name = 'firstName',
 
             [Parameter(ParameterSetName = 'index')]
             [ValidateSet( 'equal', 'notEqual', 'greaterThan', 'lessThan', 'contains' )]
@@ -175,7 +175,7 @@ function Get-MyITProcessUsers {
 
             [Parameter(ParameterSetName = 'index')]
             [ValidateSet( 'id', 'firstName', 'lastName', 'roleName', 'lastLoginDate' )]
-            [string]$sort_field_name = 'name',
+            [string]$sort_field_name = 'firstName',
 
             [Parameter(ParameterSetName = 'index')]
             [ValidateSet( 'asc', 'desc' )]

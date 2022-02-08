@@ -1,53 +1,57 @@
 #Requires -Modules Pester
 
-# Obtain name of this module by parsing name of test file (MyITProcessAPI\Tests\MyITProcessAPI.Tests.ps1)
-$ThisModule = $PSCommandPath -replace '\.Tests\.ps1$'
-$ThisModuleName = $ThisModule | Split-Path -Leaf
-
-# Obtain path of the module based on location of test file (MyITProcessAPI\Tests\MyITProcessAPI.Tests.ps1)
-$ThisModulePath = Split-Path (Split-Path -Parent $PSCommandPath) -Parent
-
-# Make sure one or multiple versions of the module are not loaded
-Get-Module -Name $ThisModuleName | Remove-Module
-
-# Credit - borrowed with care from http://www.lazywinadmin.com/2016/05/using-pester-to-test-your-manifest-file.html and modified as needed
-# Manifest file path
-$ManifestFile = "$ThisModulePath\$ThisModuleName.psd1"
-
-# Import the module and store the information about the module
-$ModuleInformation = Import-module -Name $ManifestFile -PassThru
-
-# Internal Files
-$InternalDirectoryFiles = (
-    'APIKey.ps1',
-    'BaseURI.ps1',
-    'ModuleSettings.ps1'
-)
-
-# Resource Files
-$ResourceDirectoryFiles = (
-    'Clients.ps1',
-    'Findings.ps1',
-    'Initiatives.ps1',
-    'Meetings.ps1',
-    'Recommendations.ps1',
-    'Reviews.ps1',
-    'Users.ps1'
-)
-
-# Manifest Elements
-$ManifestFileElements = (
-    'RootModule',
-    'Author',
-    'CompanyName',
-    'Description',
-    'Copyright',
-    'PowerShellVersion',
-    'NestedModules',
-    'HelpInfoURI'
-)
-
 Describe "[ Module Tests ]" {
+
+    BeforeAll {
+
+        # Obtain name of this module by parsing name of test file (MyITProcessAPI\Tests\MyITProcessAPI.Tests.ps1)
+        $ThisModule = $PSCommandPath -replace '\.Tests\.ps1$'
+        $ThisModuleName = $ThisModule | Split-Path -Leaf
+
+        # Obtain path of the module based on location of test file (MyITProcessAPI\Tests\MyITProcessAPI.Tests.ps1)
+        $ThisModulePath = Split-Path (Split-Path -Parent $PSCommandPath) -Parent
+
+        # Make sure one or multiple versions of the module are not loaded
+        Get-Module -Name $ThisModuleName | Remove-Module
+
+        # Credit - borrowed with care from http://www.lazywinadmin.com/2016/05/using-pester-to-test-your-manifest-file.html and modified as needed
+        # Manifest file path
+        $ManifestFile = "$ThisModulePath\$ThisModuleName.psd1"
+
+        # Import the module and store the information about the module
+        $ModuleInformation = Import-module -Name $ManifestFile -PassThru
+
+        # Internal Files
+        $InternalDirectoryFiles = (
+            'APIKey.ps1',
+            'BaseURI.ps1',
+            'ModuleSettings.ps1'
+        )
+
+        # Resource Files
+        $ResourceDirectoryFiles = (
+            'Clients.ps1',
+            'Findings.ps1',
+            'Initiatives.ps1',
+            'Meetings.ps1',
+            'Recommendations.ps1',
+            'Reviews.ps1',
+            'Users.ps1'
+        )
+
+        # Manifest Elements
+        $ManifestFileElements = (
+            'RootModule',
+            'Author',
+            'CompanyName',
+            'Description',
+            'Copyright',
+            'PowerShellVersion',
+            'NestedModules',
+            'HelpInfoURI'
+        )
+    }
+
     Context "Test $ThisModuleName Module" {
         It "has the root module $ThisModuleName.psm1" {
             $($ThisModulePath+"\"+$ThisModuleName.psm1) | Should -Exist
