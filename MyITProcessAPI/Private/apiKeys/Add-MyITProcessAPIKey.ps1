@@ -31,7 +31,7 @@ function Add-MyITProcessAPIKey {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html
 
 #>
 

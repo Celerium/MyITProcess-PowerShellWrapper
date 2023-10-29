@@ -232,5 +232,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html)
 

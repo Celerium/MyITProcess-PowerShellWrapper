@@ -44,7 +44,7 @@ function Import-MyITProcessModuleSettings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Import-MyITProcessModuleSettings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Import-MyITProcessModuleSettings.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'set')]

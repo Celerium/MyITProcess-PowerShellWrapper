@@ -97,5 +97,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Export-MyITProcessModuleSettings.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Export-MyITProcessModuleSettings.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Export-MyITProcessModuleSettings.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Export-MyITProcessModuleSettings.html)
 

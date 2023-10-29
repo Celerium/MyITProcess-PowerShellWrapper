@@ -232,5 +232,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html)
 

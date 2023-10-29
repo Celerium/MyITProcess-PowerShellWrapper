@@ -42,5 +42,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessAPIKey.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessAPIKey.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessAPIKey.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessAPIKey.html)
 

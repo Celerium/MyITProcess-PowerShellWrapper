@@ -228,5 +228,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Users/Get-MyITProcessUsers.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Users/Get-MyITProcessUsers.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/users/Get-MyITProcessUsers.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/users/Get-MyITProcessUsers.html)
 

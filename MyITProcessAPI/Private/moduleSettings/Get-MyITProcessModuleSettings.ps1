@@ -45,7 +45,7 @@ function Get-MyITProcessModuleSettings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessModuleSettings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessModuleSettings.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'index')]

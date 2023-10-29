@@ -146,5 +146,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Invoke-MyITProcessRequest.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Invoke-MyITProcessRequest.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Invoke-MyITProcessRequest.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Invoke-MyITProcessRequest.html)
 

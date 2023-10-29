@@ -77,5 +77,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html)
 

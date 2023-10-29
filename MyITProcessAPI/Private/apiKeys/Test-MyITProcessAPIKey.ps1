@@ -36,7 +36,7 @@ function Test-MyITProcessAPIKey {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html
 #>
 
     [CmdletBinding()]

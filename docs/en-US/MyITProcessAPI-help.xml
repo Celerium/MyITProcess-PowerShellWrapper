@@ -55,8 +55,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Add-MipAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -114,8 +114,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Add-MipBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -169,8 +169,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Export-MipModuleSettings.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessModuleSettings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessModuleSettings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessModuleSettings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessModuleSettings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -214,8 +214,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -259,8 +259,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -325,8 +325,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipClients.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Clients/Get-MyITProcessClients.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Clients/Get-MyITProcessClients.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/clients/Get-MyITProcessClients.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/clients/Get-MyITProcessClients.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -392,8 +392,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipFindings.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Findings/Get-MyITProcessFindings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Findings/Get-MyITProcessFindings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/findings/Get-MyITProcessFindings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/findings/Get-MyITProcessFindings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -459,8 +459,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipInitiatives.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -526,8 +526,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipMeetings.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -593,8 +593,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipRecommendations.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Recommendations/Get-MyITProcessRecommendations.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Recommendations/Get-MyITProcessRecommendations.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/recommendations/Get-MyITProcessRecommendations.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/recommendations/Get-MyITProcessRecommendations.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -666,8 +666,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipReviews.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Reviews/Get-MyITProcessReviews.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Reviews/Get-MyITProcessReviews.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/reviews/Get-MyITProcessReviews.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/reviews/Get-MyITProcessReviews.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -732,8 +732,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Get-MipUsers.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Users/Get-MyITProcessUsers.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Users/Get-MyITProcessUsers.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/users/Get-MyITProcessUsers.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/users/Get-MyITProcessUsers.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -787,8 +787,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Import-MipModuleSettings.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Import-MyITProcessModuleSettings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Import-MyITProcessModuleSettings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Import-MyITProcessModuleSettings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Import-MyITProcessModuleSettings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -832,8 +832,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Remove-MipAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -877,8 +877,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Remove-MipBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -932,8 +932,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Remove-MipModuleSettings.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessModuleSettings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessModuleSettings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessModuleSettings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessModuleSettings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -992,8 +992,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Set-MipAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1051,8 +1051,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Set-MipBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1111,8 +1111,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Set-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1170,8 +1170,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Set-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1225,8 +1225,8 @@
         <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/_Unique/Test-MipAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1521,8 +1521,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Clients/Get-MyITProcessClients.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Clients/Get-MyITProcessClients.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/clients/Get-MyITProcessClients.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/clients/Get-MyITProcessClients.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1818,8 +1818,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Findings/Get-MyITProcessFindings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Findings/Get-MyITProcessFindings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/findings/Get-MyITProcessFindings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/findings/Get-MyITProcessFindings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2115,8 +2115,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2196,8 +2196,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2300,8 +2300,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2395,8 +2395,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/ConvertTo-MyITProcessQueryString.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/ConvertTo-MyITProcessQueryString.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/ConvertTo-MyITProcessQueryString.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/ConvertTo-MyITProcessQueryString.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2497,8 +2497,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Export-MyITProcessModuleSettings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Export-MyITProcessModuleSettings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Export-MyITProcessModuleSettings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Export-MyITProcessModuleSettings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2562,8 +2562,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2603,8 +2603,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2733,8 +2733,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessModuleSettings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessModuleSettings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessModuleSettings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessModuleSettings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -2837,8 +2837,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Import-MyITProcessModuleSettings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Import-MyITProcessModuleSettings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Import-MyITProcessModuleSettings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Import-MyITProcessModuleSettings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3009,8 +3009,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Invoke-MyITProcessRequest.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Invoke-MyITProcessRequest.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Invoke-MyITProcessRequest.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Invoke-MyITProcessRequest.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3097,8 +3097,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3185,8 +3185,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3334,8 +3334,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessModuleSettings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessModuleSettings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessModuleSettings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessModuleSettings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3412,8 +3412,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3709,8 +3709,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -4032,8 +4032,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Recommendations/Get-MyITProcessRecommendations.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Recommendations/Get-MyITProcessRecommendations.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/recommendations/Get-MyITProcessRecommendations.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/recommendations/Get-MyITProcessRecommendations.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -4358,8 +4358,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Reviews/Get-MyITProcessReviews.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Reviews/Get-MyITProcessReviews.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/reviews/Get-MyITProcessReviews.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/reviews/Get-MyITProcessReviews.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -4654,8 +4654,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Users/Get-MyITProcessUsers.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Users/Get-MyITProcessUsers.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/users/Get-MyITProcessUsers.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/MyITProcess-PowerShellWrapper/site/users/Get-MyITProcessUsers.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>

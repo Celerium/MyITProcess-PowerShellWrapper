@@ -80,5 +80,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html)
 

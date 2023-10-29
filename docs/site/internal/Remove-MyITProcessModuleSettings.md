@@ -130,5 +130,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessModuleSettings.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessModuleSettings.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessModuleSettings.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessModuleSettings.html)
 

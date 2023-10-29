@@ -38,7 +38,7 @@ function ConvertTo-MyITProcessQueryString {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/ConvertTo-MyITProcessQueryString.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/ConvertTo-MyITProcessQueryString.html
 
 #>
 

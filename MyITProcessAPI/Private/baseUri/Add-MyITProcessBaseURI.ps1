@@ -33,7 +33,7 @@ function Add-MyITProcessBaseURI {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html
 #>
 
     [CmdletBinding()]

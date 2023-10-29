@@ -39,7 +39,7 @@ function ConvertTo-MyITProcessQueryString {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/ConvertTo-MyITProcessQueryString.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/ConvertTo-MyITProcessQueryString.html
 
 #>
 
@@ -210,7 +210,7 @@ function Invoke-MyITProcessRequest {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Invoke-MyITProcessRequest.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Invoke-MyITProcessRequest.html
 
 #>
 
@@ -382,7 +382,7 @@ function Add-MyITProcessAPIKey {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessAPIKey.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessAPIKey.html
 
 #>
 
@@ -438,7 +438,7 @@ function Get-MyITProcessAPIKey {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessAPIKey.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessAPIKey.html
 #>
 
     [CmdletBinding()]
@@ -498,7 +498,7 @@ function Remove-MyITProcessAPIKey {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessAPIKey.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessAPIKey.html
 #>
 
     [CmdletBinding(SupportsShouldProcess)]
@@ -561,7 +561,7 @@ function Test-MyITProcessAPIKey {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Test-MyITProcessAPIKey.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Test-MyITProcessAPIKey.html
 #>
 
     [CmdletBinding()]
@@ -653,7 +653,7 @@ function Add-MyITProcessBaseURI {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Add-MyITProcessBaseURI.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Add-MyITProcessBaseURI.html
 #>
 
     [CmdletBinding()]
@@ -707,7 +707,7 @@ function Get-MyITProcessBaseURI {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html
 #>
 
     [CmdletBinding()]
@@ -747,7 +747,7 @@ function Remove-MyITProcessBaseURI {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html
 #>
 
     [CmdletBinding(SupportsShouldProcess)]
@@ -812,7 +812,7 @@ function Export-MyITProcessModuleSettings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Export-MyITProcessModuleSettings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Export-MyITProcessModuleSettings.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'set')]
@@ -912,7 +912,7 @@ function Get-MyITProcessModuleSettings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessModuleSettings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessModuleSettings.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'index')]
@@ -1001,7 +1001,7 @@ function Import-MyITProcessModuleSettings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Import-MyITProcessModuleSettings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Import-MyITProcessModuleSettings.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'set')]
@@ -1103,7 +1103,7 @@ function Remove-MyITProcessModuleSettings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessModuleSettings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessModuleSettings.html
 #>
 
     [CmdletBinding(SupportsShouldProcess, DefaultParameterSetName = 'set')]
@@ -1238,7 +1238,7 @@ function Get-MyITProcessClients {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Clients/Get-MyITProcessClients.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/clients/Get-MyITProcessClients.html
 
 #>
 
@@ -1391,7 +1391,7 @@ function Get-MyITProcessFindings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Findings/Get-MyITProcessFindings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/findings/Get-MyITProcessFindings.html
 
 #>
 
@@ -1543,7 +1543,7 @@ function Get-MyITProcessInitiatives {
     .NOTES
         N\A
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html
 
 #>
 
@@ -1695,7 +1695,7 @@ function Get-MyITProcessMeetings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html
 
 #>
 
@@ -1854,7 +1854,7 @@ function Get-MyITProcessRecommendations {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Recommendations/Get-MyITProcessRecommendations.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/recommendations/Get-MyITProcessRecommendations.html
 
 #>
 
@@ -2034,7 +2034,7 @@ function Get-MyITProcessReviews {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Reviews/Get-MyITProcessReviews.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/reviews/Get-MyITProcessReviews.html
 
 #>
 
@@ -2204,7 +2204,7 @@ function Get-MyITProcessUsers {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Users/Get-MyITProcessUsers.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/users/Get-MyITProcessUsers.html
 
 #>
 

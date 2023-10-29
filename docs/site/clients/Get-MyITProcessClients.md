@@ -230,5 +230,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Clients/Get-MyITProcessClients.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Clients/Get-MyITProcessClients.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/clients/Get-MyITProcessClients.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/clients/Get-MyITProcessClients.html)
 

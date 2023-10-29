@@ -64,5 +64,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Recommendations/Get-MyITProcessRecommendations.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Recommendations/Get-MyITProcessRecommendations.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/recommendations/Get-MyITProcessRecommendations.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/recommendations/Get-MyITProcessRecommendations.html)
 

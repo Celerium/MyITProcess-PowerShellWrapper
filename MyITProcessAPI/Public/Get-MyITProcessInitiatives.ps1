@@ -85,7 +85,7 @@ function Get-MyITProcessInitiatives {
     .NOTES
         N\A
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Initiatives/Get-MyITProcessInitiatives.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/initiatives/Get-MyITProcessInitiatives.html
 
 #>
 

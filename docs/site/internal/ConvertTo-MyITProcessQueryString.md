@@ -92,5 +92,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/ConvertTo-MyITProcessQueryString.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/ConvertTo-MyITProcessQueryString.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/ConvertTo-MyITProcessQueryString.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/ConvertTo-MyITProcessQueryString.html)
 

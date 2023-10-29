@@ -15,7 +15,7 @@ function Get-MyITProcessBaseURI {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html
 #>
 
     [CmdletBinding()]

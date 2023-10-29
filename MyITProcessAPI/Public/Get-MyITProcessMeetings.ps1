@@ -86,7 +86,7 @@ function Get-MyITProcessMeetings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Meetings/Get-MyITProcessMeetings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/meetings/Get-MyITProcessMeetings.html
 
 #>
 

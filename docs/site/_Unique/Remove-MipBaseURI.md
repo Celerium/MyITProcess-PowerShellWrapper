@@ -41,5 +41,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html)
 

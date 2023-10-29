@@ -92,7 +92,7 @@ function Get-MyITProcessReviews {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Reviews/Get-MyITProcessReviews.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/reviews/Get-MyITProcessReviews.html
 
 #>
 

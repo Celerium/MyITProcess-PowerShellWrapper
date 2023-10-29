@@ -15,7 +15,7 @@ function Remove-MyITProcessAPIKey {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessAPIKey.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessAPIKey.html
 #>
 
     [CmdletBinding(SupportsShouldProcess)]

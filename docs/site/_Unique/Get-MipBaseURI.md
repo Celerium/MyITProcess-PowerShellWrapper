@@ -41,5 +41,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Get-MyITProcessBaseURI.html)
+[https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html](https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Get-MyITProcessBaseURI.html)
 

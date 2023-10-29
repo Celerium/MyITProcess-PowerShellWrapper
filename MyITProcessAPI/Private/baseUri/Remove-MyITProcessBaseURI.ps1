@@ -15,7 +15,7 @@ function Remove-MyITProcessBaseURI {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Remove-MyITProcessBaseURI.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Remove-MyITProcessBaseURI.html
 #>
 
     [CmdletBinding(SupportsShouldProcess)]

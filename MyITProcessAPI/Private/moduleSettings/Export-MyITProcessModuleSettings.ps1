@@ -40,7 +40,7 @@ function Export-MyITProcessModuleSettings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Internal/Export-MyITProcessModuleSettings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/internal/Export-MyITProcessModuleSettings.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'set')]

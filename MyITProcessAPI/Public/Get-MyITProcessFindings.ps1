@@ -86,7 +86,7 @@ function Get-MyITProcessFindings {
         N\A
 
     .LINK
-        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/Findings/Get-MyITProcessFindings.html
+        https://celerium.github.io/MyITProcess-PowerShellWrapper/site/findings/Get-MyITProcessFindings.html
 
 #>
 
